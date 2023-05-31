@@ -11,7 +11,7 @@ OPP total intensity FC: all values of OPP total intensity divided by the mean of
 Line plot: three replicates of median of eIF2a-P cytoplasmic intensity FC in each well and three replicates of median of OPP Total intensity FC in each well
 
 ### OPPuro_eIF2aP_Relate_v2.py
-Input: Image.csv, Red_Cytoplasm.csv, OPP_whole_cell.csv
+Input: Image.csv, Red_Cytoplasm.csv, OPP_whole_cell.csv  
 Output: scatter plot of mean eIF2a-P and OPP
 
 Definition:  
